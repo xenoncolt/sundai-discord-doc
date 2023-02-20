@@ -35,6 +35,8 @@
   - [Application](#application)
     - [Usage](#usage-14)
   - [Audit Log](#audit-log)
+    - [Usage](#usage-15)
+  - [Auto Backup](#auto-backup)
 
 
 
@@ -227,3 +229,14 @@ Manage 25 different Application Systems.
 ```
 
 ### Audit Log
+Activate a logger which logs every action in your server which could be critical.
+
+#### Usage
+```
+.setup-auditlog   |
+.setupauditlog    |
+.auditlog-setup   |  --> Follow the steps
+.auditlogsetup    |
+```
+
+### Auto Backup
