@@ -13,6 +13,28 @@
   - [AI Chat](#ai-chat)
     - [Usage](#usage-3)
   - [Anti Caps](#anti-caps)
+    - [Usage](#usage-4)
+  - [Anti Discord Link](#anti-discord-link)
+    - [Usage](#usage-5)
+  - [Anti Link](#anti-link)
+    - [Usage](#usage-6)
+  - [Anti Massive Mention](#anti-massive-mention)
+    - [Usage](#usage-7)
+  - [Anti Massive Pings](#anti-massive-pings)
+    - [Usage](#usage-8)
+  - [Anti Mention](#anti-mention)
+    - [Usage](#usage-9)
+  - [Anti New Account](#anti-new-account)
+    - [Usage](#usage-10)
+  - [Anti Nuke](#anti-nuke)
+    - [Usage](#usage-11)
+  - [Anti Pings](#anti-pings)
+    - [Usage](#usage-12)
+  - [Anti Spam](#anti-spam)
+    - [Usage](#usage-13)
+  - [Application](#application)
+    - [Usage](#usage-14)
+  - [Audit Log](#audit-log)
 
 
 
@@ -62,3 +84,146 @@ Specify a Channel used for Chatting with the AI of this BOT. (For Fun)
 ```
 
 ### Anti Caps
+Enable/Disable and change the maximum percent of UPPERCASE (caps) inside of a message.
+
+#### Usage 
+```
+.setup-anticaps   |
+.setupanticaps    |
+.setup-caps       |  --> Follow the steps
+.setupcaps        |
+.anticaps-setup   |
+.anticapssetup    |
+```
+
+### Anti Discord Link
+Enable/Disable anti discord link advertisements means no one can send their discord server link in the chat. You can add Whitelisted Links/ Channels in manage the settings.
+
+#### Usage
+```
+.setup-antidiscord      |
+.setupantidiscord       |
+.antidiscord            |  --> Follow the steps
+.antidiscord-setup      |
+.antidiscordsetup       |
+```
+
+### Anti Link 
+Enable/Disable Anti Link system means no one can send link in the chat. You can add Whitelisted links/ Channels in manage the settings.
+
+#### Usage
+```
+.setup-antilink      |
+.setupantilink       |
+.setup-antilinks     |  --> Follow the steps
+.antilink-setup      |
+.antilinks-setup     |
+.antilinksetup       |
+```
+
+### Anti Massive Mention
+Enable/Disable and Change the allowed ammount of Mentions per message.
+
+#### Usage
+```
+.setup-antimassmention        |
+.setupantimassmention         |
+.setup-massmention            |  --> Follow the steps
+.setupmassmention             |
+.antimassmention-setup        |
+.antimassmentionsetup         |
+```
+
+### Anti Massive Pings
+Enable/Disable and Change the allowed ammount of Mentions per message.
+
+#### Usage
+```
+.setup-antimasspings        |
+.setupantimasspings         |
+.setup-masspings            |  --> Follow the steps
+.setupmasspings             |
+.antimasspings-setup        |
+.antimasspingssetup         |
+```
+
+### Anti Mention
+Enable/Disable and Change the allowed ammount of Mentions per message.
+
+#### Usage
+```
+.setup-antimention        |
+.setupantimention         |
+.setup-mentio             |  --> Follow the steps
+.setupmention             |
+.antimention-setup        |
+.antimentionsetup         |
+```
+
+### Anti New Account
+Setup a system which blocks too new Accounts.
+
+#### Usage
+```
+.setup-antinewaccount   |
+.setupnewaccount        |
+.newaccount-setup       |
+.setupantinewaccount    |  --> Follow the steps
+.newaccountsetup        |
+.antinewaccount-setup   |
+.antinewaccountsetup    |
+.setup-newaccount       |
+```
+
+### Anti Nuke
+Manage the Anti Nuke system which can be proctect your server from nuke.
+
+#### Usage
+```
+.setup-antinuke   |
+.setupantinuke    |
+.antinuke-setup   |  --> Follow the steps
+.antinukesetup    |
+.antinukesystem   |
+```
+
+### Anti Pings
+Enable/Disable and Change the allowed ammount of Mentions per message.
+
+#### Usage
+```
+.setup-antipings        |
+.setupantipings         |
+.setup-pings            |  --> Follow the steps
+.setuppings             |
+.antipings-setup        |
+.antipingssetup         |
+```
+
+### Anti Spam
+Enable/Disable and Change the Maximum Amount of messages to be allowed to send in under 10 seconds.
+
+#### Usage
+```
+.setup-antispam   |
+.setupantispam    |
+.setup-spam       |  --> Follow the steps
+.setupspam        |
+.antispam-setup   |
+.antispamsetup    |
+```
+
+### Application
+Manage 25 different Application Systems.
+
+#### Usage
+```
+.setup-apply           |
+.setupapply            |
+.apply-setup           |  --> Follow the steps
+.applysetup            |
+.setup-application     |
+.setupapplication      |
+```
+
+### Audit Log
