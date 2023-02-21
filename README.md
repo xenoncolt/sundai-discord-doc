@@ -37,6 +37,17 @@
   - [Audit Log](#audit-log)
     - [Usage](#usage-15)
   - [Auto Backup](#auto-backup)
+    - [Usage](#usage-16)
+  - [Auto Delete](#auto-delete)
+    - [Usage](#usage-17)
+  - [Auto Embed](#auto-embed)
+    - [Usage](#usage-18)
+  - [Join to Create Channel](#join-to-create-channel)
+    - [Usage](#usage-19)
+  - [Logger](#logger)
+    - [Usage](#usage-20)
+  - [Music](#music)
+    - [Usage](#usage-21)
 
 
 
@@ -240,3 +251,68 @@ Activate a logger which logs every action in your server which could be critical
 ```
 
 ### Auto Backup
+Enable/Disable automated backups of this server (One backup per 2 days)
+
+#### Usage 
+```
+.setup-autobackup           |
+.setupautobackup            |
+.apply-backup               |  --> Follow the steps
+.setupbackup                |
+.autobackup-setup           |
+.autobackupsetup            |
+```
+
+### Auto Delete
+Define a channel where every message is replaced with an EMBED or disable this feature.
+
+#### Usage
+```
+.setup-autodelete           |
+.setupautodelete            |
+.autodelete-setup           |  --> Follow the steps
+.autodeletesetup            |
+```
+
+### Auto Embed
+Define a channel where every message is replaced with an EMBED or disable this feature.
+
+#### Usage
+```
+.setup-autodelete           |
+.setupautodelete            |  --> Follow the steps
+.autoembed-setup            |  
+```
+
+### Join to Create Channel
+This will create a new channel when you setup a channel to JTC
+
+#### Usage
+```
+.setup-jtc             |
+.setup-jointocreate    |
+.setupjtc              |   ----> Follow Steps
+.setupjointocreate     |
+.jtc-setup             |
+.jtcsetup              |
+```
+
+### Logger
+Enable/Disable The logger/ Audit log system.
+
+#### Usage
+```
+.setup-logger           |
+.setuplogger            |
+.logger-setup           |  --> Follow the steps
+.loggersetup            |
+.setup-auditlog         |
+```
+
+### Music
+Setup a Music Request Channel.
+
+#### Usage
+```
+.setup-music #CHANNEL/ CHANNEL ID
+```
