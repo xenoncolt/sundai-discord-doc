@@ -334,5 +334,6 @@ Adds a Quote to a User/you.
 #### Usage
 ```
 .addquote [@user] <TEXT> [Attachment of an Image]
+
 .aquote [@user] <TEXT> [Attachment of an Image]
 ```
