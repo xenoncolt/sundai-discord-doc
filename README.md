@@ -49,6 +49,8 @@
   - [Music](#music)
     - [Usage](#usage-21)
 - [Information](#information)
+  - [Add quote](#add-quote)
+    - [Usage](#usage-22)
 
 <!------------ Setup ----------->
 
@@ -324,3 +326,13 @@ Setup a Music Request Channel.
 
 
 ## Information
+Give you some information about users or servers or bot.
+
+### Add quote
+Adds a Quote to a User/you.
+
+#### Usage
+```
+.addquote [@user] <TEXT> [Attachment of an Image]
+.aquote [@user] <TEXT> [Attachment of an Image]
+```
