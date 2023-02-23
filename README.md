@@ -48,8 +48,9 @@
     - [Usage](#usage-20)
   - [Music](#music)
     - [Usage](#usage-21)
+- [Information](#information)
 
-
+<!------------ Setup ----------->
 
 ## Setup Commands
  
@@ -316,3 +317,10 @@ Setup a Music Request Channel.
 ```
 .setup-music #CHANNEL/ CHANNEL ID
 ```
+
+
+<!---------------- Information -------------->
+
+
+
+## Information
