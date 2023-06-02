@@ -321,7 +321,7 @@ Setup a Music Request Channel.
 ```
 
 
-<!---------------- Information -------------->
+<!---------------- Information --------------->
 
 
 
