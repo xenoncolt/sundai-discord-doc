@@ -71,7 +71,7 @@ Allow specific Roles/Users to execute specific Commands/All commands without ADM
 ```
 .setup-admin   |
 .setupadmin    |
-.setup-mod     |  --> Follow the steps
+.setup-mod     |   --> Follow the steps
 .setupmod      |
 .admin-setup   |
 .adminsetup    |
